@@ -1,0 +1,13 @@
+C:\Users\MrGamble\source\repos\VR6H0R\VR6H0R\VR6H0R\obj\Debug\netstandard2.0\VR6H0R.csprojAssemblyReference.cache
+C:\Users\MrGamble\source\repos\VR6H0R\VR6H0R\VR6H0R\bin\Debug\netstandard2.0\VR6H0R.deps.json
+C:\Users\MrGamble\source\repos\VR6H0R\VR6H0R\VR6H0R\bin\Debug\netstandard2.0\VR6H0R.dll
+C:\Users\MrGamble\source\repos\VR6H0R\VR6H0R\VR6H0R\bin\Debug\netstandard2.0\VR6H0R.pdb
+C:\Users\MrGamble\source\repos\VR6H0R\VR6H0R\VR6H0R\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\MrGamble\source\repos\VR6H0R\VR6H0R\VR6H0R\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\MrGamble\source\repos\VR6H0R\VR6H0R\VR6H0R\obj\Debug\netstandard2.0\VR6H0R.csproj.CoreCompileInputs.cache
+C:\Users\MrGamble\source\repos\VR6H0R\VR6H0R\VR6H0R\obj\Debug\netstandard2.0\VR6H0R.AssemblyInfoInputs.cache
+C:\Users\MrGamble\source\repos\VR6H0R\VR6H0R\VR6H0R\obj\Debug\netstandard2.0\VR6H0R.AssemblyInfo.cs
+C:\Users\MrGamble\source\repos\VR6H0R\VR6H0R\VR6H0R\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\MrGamble\source\repos\VR6H0R\VR6H0R\VR6H0R\obj\Debug\netstandard2.0\VR6H0R.dll
+C:\Users\MrGamble\source\repos\VR6H0R\VR6H0R\VR6H0R\obj\Debug\netstandard2.0\VR6H0R.pdb
+C:\Users\MrGamble\source\repos\VR6H0R\VR6H0R\VR6H0R\obj\Debug\netstandard2.0\AddItemPage.xaml.g.cs

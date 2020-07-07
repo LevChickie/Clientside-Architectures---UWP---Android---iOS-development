@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="VR6H0R.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:VR6H0R.UWP"
+    RequestedTheme="Light">
+
+</Application>
